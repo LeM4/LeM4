@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img style="border-radius:50%;" src="https://avatars.githubusercontent.com/u/45393220?s=96&amp;v=4" alt="@LeM4" width="48" height="48">
+<img border-radius="50%" src="https://avatars.githubusercontent.com/u/45393220?s=96&amp;v=4" alt="@LeM4" width="48" height="48">
 
 ## Motto 🤩
 > *'Opportunities don't happen, you create them.'*
