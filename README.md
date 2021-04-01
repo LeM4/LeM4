@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Profile Image](https://avatars.githubusercontent.com/u/45393220)
+<img class="float-left rounded-1 avatar-user" src="https://avatars.githubusercontent.com/u/45393220?s=96&amp;v=4" alt="@LeM4" width="48" height="48">
 
 ## Motto 🤩
 > *'Opportunities don't happen, you create them.'*
