@@ -4,6 +4,16 @@
 ## Motto 🤩
 > *'Opportunities don't happen, you create them.'*
 
+<h2> About me </h2>
+
+- 🔭 I’m currently working on [alphabot](https://sxript.github.io/alphabot/#/) 
+
+- 👯 I’m looking to collaborate on **Full Stack Projects**
+
+- 💬 Talk to me about **Node.js, Java, Docker and Freelancing Opportunites**
+
+- 📫 Reach me at <a href = 'https://www.linkedin.com/in/mario-schrolmberger'> <img width = '16px' align= 'auto' src="https://raw.githubusercontent.com/gist/SXRIPT/37000723d76935fa629e0909b48a1905/raw/b68cfd66bbbfb3062d249db4bda9ab91d278510f/linked-in-alt.svg"/></a>
+
 <h2> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24px> </h2>
 
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
