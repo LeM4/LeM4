@@ -1,4 +1,5 @@
-### Hi there 👋
+###Hi 👋, I'm Mario 'LeM4' Schrolmberger
+<h3 align="center">Young tech enthusiast aspiring to become a good software developer</h3>
 
 ## Motto 🤩
 > *'Opportunities don't happen, you create them.'*
