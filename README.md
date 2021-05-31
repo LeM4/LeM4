@@ -1,4 +1,4 @@
-###Hi 👋, I'm Mario 'LeM4' Schrolmberger
+### Hi 👋, I'm Mario 'LeM4' Schrolmberger
 <h3 align="center">Young tech enthusiast aspiring to become a good software developer</h3>
 
 ## Motto 🤩
